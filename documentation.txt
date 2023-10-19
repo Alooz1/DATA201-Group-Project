@@ -1,9 +1,9 @@
-There are several jupyter notebooks in this project. 9 of the jupyter notebooks contain data for AirBNBs and can be run in any order - these are named with either the country or cities name that had the AirBNB data scraped from.
+There are several jupyter notebooks in this project. 9 of the jupyter notebooks contain data for AirBNBs and can be run in any order - these are named with either the country or cities name that had the AirBNB data scraped from. When running these files various tables and graphs will be created such as price distributions, price vs bedrooms and price vs bathrooms graphs.
 
-PriceDistributionIn9Country.ipynb has all countries combined in one notebook so a price distribution box plot comparing all countries could be created.
+PriceDistributionIn9Country.ipynb has all countries combined in one notebook so a price distribution box plot comparing all countries could be created when it is run. 
   
-WorldData.ipynb contains all countries populations, GDP per capita and country names.
+WorldData.ipynb contains all countries populations, GDP per capita and country names. When this file is run a population and GDP per capita graphs for the selected countrys are created.
 
-Other pdf files are either our project report, group diary or group presentation.
+Other pdf files are either our project report, group diary or group presentation, and are easily recognizable by name.
 
   
